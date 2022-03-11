@@ -18,3 +18,8 @@ em { background: #FFCC99; border: 1px solid #FF9900; padding: .1em; }
  
 /* Elementos span contenidos en .normal */
 .normal span { font-weight: bold; }
+
+p { 
+    color: white;
+    background-color: brown;
+  }
